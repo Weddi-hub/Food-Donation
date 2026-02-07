@@ -67,7 +67,18 @@ lib/
 
 ## 📸 Screenshots
 
-*(Add your screenshots here to showcase your app!)*
+![Pic1](https://github.com/user-attachments/assets/0719dbdf-de0e-4e98-8d20-e0bbbc41745a)
+![Pic2](https://github.com/user-attachments/assets/2edd3c3d-fd79-48b4-833e-3df908f0b10b)
+![Pic3](https://github.com/user-attachments/assets/8c2fa535-7c0a-4833-acb3-64d37eccc0c6)
+![Pic4](https://github.com/user-attachments/assets/2d0f12c7-140e-4b85-bd29-d75ff688cca8)
+![Pic5](https://github.com/user-attachments/assets/ca3076c5-3043-47c7-a2ca-a8765140fb4e)
+![Pic6](https://github.com/user-attachments/assets/9f05ff54-94ff-46fd-a00b-00f5c10dbf4c)
+
+
+
+
+
+
 
 ## 🤝 Contributing
 
